@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div>
          <footer>
-            <p>&copy; Event Planner Organization. All rights reserved.</p>
+            <p>&copy; Tewos Event Planner Organization. All rights reserved.</p>
          </footer>
     </div>
   )
