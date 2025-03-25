@@ -18,7 +18,7 @@ const EventPlanner = () => {
 
         <section className="events_categories">
                   <ul>
-                    
+                    <h2>Social Events:</h2>
                     <li>Birthday parties</li>
                     <li>Anniversary celebrations</li>
                     <li>Wedding receptions</li>
