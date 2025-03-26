@@ -75,7 +75,7 @@ const EventPlanner = () => {
         </section>
          
         <section className="contact">
-        <h3>Contact Us</h3>
+        <h2>Contact Us</h2>
                 <form>
                     <input type="text" placeholder="Name" />
                     <input type="email" placeholder="Email" />
