@@ -73,7 +73,6 @@ const EventPlanner = () => {
                 </div>
 
         </section>
-         
         <section className="contact">
         <h2>Contact Us</h2>
                 <form>
