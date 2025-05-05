@@ -83,7 +83,6 @@ const EventPlanner = () => {
                     <button className="submit-button">Send</button>
                 </form>
         </section>
-
         <section className="footer">
            <Footer></Footer>
         </section>
